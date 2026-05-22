@@ -91,7 +91,7 @@ dshw-p01/
 ├─ requirements.txt     # 依赖包列表
 └─ README.md            # 本文件
 五、GitHub 仓库
-https://github.com/[你的 GitHub 用户名]/dshw-p01
+(https://github.com/craig199747/dshw-p01)
 注意：data/文件夹和.ipynb_checkpoints/文件夹未上传至 GitHub，可通过运行代码从头生成。
 六、如何运行
 1. 安装依赖
